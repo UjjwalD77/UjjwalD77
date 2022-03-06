@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <!-- <img width="1000"  alt="Profile Banner" src="https://user-images.githubusercontent.com/48765068/156937433-a13cbc22-85d9-4ebd-b1cd-22fce2422195.gif"> -->
 <img   alt="Profile Banner" src="https://user-images.githubusercontent.com/48765068/156937756-e04a4c4d-2956-4bce-918b-dec25b826e2d.gif">
 <!-- ![Ujjwal devre](https://user-images.githubusercontent.com/48765068/156937433-a13cbc22-85d9-4ebd-b1cd-22fce2422195.gif) -->
+
 - 🌱 I’m currently learning React.js and React-Native
+
 - 📫 How to reach me: THE_G#1337 (363229954608988161)
 
 <h3 align="left">Social Media ~</h3>
