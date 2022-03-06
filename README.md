@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<img width="1000"  alt="Profile Banner" src="https://user-images.githubusercontent.com/48765068/156937433-a13cbc22-85d9-4ebd-b1cd-22fce2422195.gif">
+<!-- ![Ujjwal devre](https://user-images.githubusercontent.com/48765068/156937433-a13cbc22-85d9-4ebd-b1cd-22fce2422195.gif) -->
 - 🌱 I’m currently learning React.js and React-Native
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: THE_G#1337 (363229954608988161)
-<!-- - ⚡ Fun fact: ... -->
 
 <h3 align="left">Social Media ~</h3>
 <a href="https://discord.com/users/823114239534170143">
