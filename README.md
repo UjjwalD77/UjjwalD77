@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: THE_G#1337 (363229954608988161)
 
 ### Current TO-DO:
-- [ ] Wordle
+- [x] Wordle
 - [ ] Gif Manipulator for Discord
 
 <h3 align="left">Social Media ~</h3>
