@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=THEG77&color=blue)
+<br>
 ### Hi there 👋
 
 <!--
@@ -26,6 +28,8 @@ Here are some ideas to get you started:
 - [x] Wordle
 - [ ] Gif Manipulator for Discord
 
+[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-3/363229954608988161.png)](https://discord.com/users/823114239534170143)
+
 <h3 align="left">Social Media ~</h3>
 <a href="https://discord.com/users/823114239534170143">
   <img align="left" alt="Discord" width="20px" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png" />
@@ -33,4 +37,8 @@ Here are some ideas to get you started:
 
 <a href="https://open.spotify.com/user/ockrtaqqhy79vw9o2ly29drk1">
   <img align="left" alt="Spotify" width="20px" src="https://cdn-icons-png.flaticon.com/128/174/174872.png" />
+</a>
+
+<a href="https://t.me/THE_G77">
+  <img align="left" alt="Telegram" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
