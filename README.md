@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### Current TO-DO:
 - [x] Wordle
 - [ ] Gif Manipulator for Discord
+- [ ] Pizza Delivery App (MERN)
 
 [![DiscordProfileBanner](https://discord.c99.nl/widget/theme-3/363229954608988161.png)](https://discord.com/users/823114239534170143)
 
