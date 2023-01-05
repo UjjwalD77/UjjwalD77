@@ -27,6 +27,3 @@ Here are some ideas to get you started:
 - [ ] Gif Manipulator for Discord
 - [x] Pizza Shop App (MERN)
 
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-3/363229954608988161.png)](https://discord.com/users/823114239534170143)
-
-
