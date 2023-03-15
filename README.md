@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - [x] Wordle
 - [ ] Gif Manipulator for Discord
 - [x] Pizza Shop App (MERN)
-
+- [x] Sorting Algorithm Visualizer
+- [x] SMS Forwarder in React Native
