@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=DjVal2&color=blue)
+![](https://komarev.com/ghpvc/?username=UjjwalD77&color=blue)
 <br>
 ### Hi there 👋
 
@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <img width="1000"  alt="Profile Banner" src="https://user-images.githubusercontent.com/48765068/156937433-a13cbc22-85d9-4ebd-b1cd-22fce2422195.gif"> -->
-<img   alt="Profile Banner" src="https://user-images.githubusercontent.com/48765068/156937756-e04a4c4d-2956-4bce-918b-dec25b826e2d.gif">
+<!-- <img   alt="Profile Banner" src="https://user-images.githubusercontent.com/48765068/156937756-e04a4c4d-2956-4bce-918b-dec25b826e2d.gif"> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48765068/225391166-d3704d48-7a21-4542-8f93-441d7a5806a1.gif">
+</p>
 
 - 🌱 I’m currently learning React.js and React-Native
 - 🤓 Portfolio [HERE](https://ujjwald77.github.io/react-myos/)
