@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=UjjwalD77&color=blue)
-<br>
 ### Hi there 👋
 
 <!--
