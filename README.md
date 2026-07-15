@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Current TO-DO:
 - [x] Wordle
-- [ ] Gif Manipulator for Discord
+- [x] Gif Manipulator for Discord
 - [x] Pizza Shop App (MERN)
 - [x] Sorting Algorithm Visualizer
 - [x] SMS Forwarder in React Native
