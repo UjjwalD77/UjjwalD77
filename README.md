@@ -23,8 +23,5 @@ Here are some ideas to get you started:
 - 🤓 Portfolio [HERE](https://ujjwald77.github.io/react-myos/)
 
 ### Current TO-DO:
-- [x] Wordle
 - [x] Gif Manipulator for Discord
-- [x] Pizza Shop App (MERN)
-- [x] Sorting Algorithm Visualizer
 - [x] SMS Forwarder in React Native
